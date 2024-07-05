@@ -1,8 +1,19 @@
-# Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Arif</h1>
 
-## About me
+# 🌟 About me
 
-Hi, I'm Arif. I study computer science and love IT 😄
+📚 I'm a computer science student <br>
+💻 I'm currently learning Flutter and Dart <br>
+😃 Check out my [GitHub Page](https://arif043.github.io)
+
+# 🌐 Socials
+![Static Badge](https://img.shields.io/badge/EMAIL-arif.ertugrul%40tu--dortmund.de-darkgreen?style=for-the-badge&logo=gmail&labelColor=ffffff)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ertugrul/)
+
+
+# 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,c,dart,flutter,git,javascript,html,css,vscode,cmake,bash,arch,debian,atom,clion,eclipse,gradle,idea,latex,linux,mysql,py,pycharm,raspberrypi,regex,sqlite,webstorm&theme=dark)](https://skillicons.dev)
+
 
 <details open>
 <summary>My top languages</summary>
