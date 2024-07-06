@@ -138,7 +138,10 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif043&theme=react">
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=69Asuna69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![](https://visitcount.itsvg.in/api?id=Arif043&icon=5&color=6)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,kotlin,c,dart,py,javascript,html,css,git,flutter,mysql,sqlite,cmake,bash,gradle,latex,regex,linux,arch,debian,raspberrypi,atom,clion,idea,pycharm,webstorm,vscode,androidstudio&theme=dark" />
@@ -157,8 +160,6 @@
 |     4| Python        |
 
 </details open> -->
-
-
 
 ---
 > Computer science is the art of creating great ideas out of zeros and ones.
