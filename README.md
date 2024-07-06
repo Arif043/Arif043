@@ -7,9 +7,9 @@
 😃 Check out my [GitHub Page](https://arif043.github.io)
 
 # 🌐 Socials
-![Static Badge](https://img.shields.io/badge/EMAIL-arif.ertugrul%40tu--dortmund.de-darkgreen?style=for-the-badge&logo=gmail&labelColor=ffffff)
+[![Email](https://img.shields.io/badge/EMAIL-arif.ertugrul%40tu--dortmund.de-darkgreen?style=for-the-badge&logo=gmail&labelColor=ffffff)](mailto:arif.ertugrul@tu-dortmund.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ertugrul/)
-![Static Badge](https://img.shields.io/badge/reddit-orange?style=flat&logo=reddit&logoColor=black)
+[![Reddit](https://img.shields.io/badge/reddit-orange?style=flat&logo=reddit&logoColor=black)](https://www.reddit.com/user/Arif1100/)
 
 
 # 💻 Tech Stack
