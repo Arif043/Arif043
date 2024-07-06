@@ -156,9 +156,9 @@
 
 
 ---
-> If we pull together and commit ourselves, then we can push through anything.
+> Computer science is the art of creating great ideas out of zeros and ones.
 
-— Mona the Octocat
+— Steve Jobs
 
 
 <!--
