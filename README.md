@@ -6,11 +6,15 @@
 💻 I'm currently learning Flutter and Dart <br>
 😃 Check out my [GitHub Page](https://arif043.github.io)
 
+# 📊 GitHubt Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Arif043&theme=react&hide_border=false&include_all_commits=true&count_private=true"> <br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arif043&theme=react&hide_border=false"> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arif043&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
 # 🌐 Socials
 [![Email](https://img.shields.io/badge/EMAIL-arif.ertugrul%40tu--dortmund.de-darkgreen?style=for-the-badge&logo=gmail&labelColor=ffffff)](mailto:arif.ertugrul@tu-dortmund.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ertugrul/)
 [![Reddit](https://img.shields.io/badge/reddit-orange?style=flat&logo=reddit&logoColor=black)](https://www.reddit.com/user/Arif1100/)
-
 
 # 💻 Tech Stack
 <!--[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,dart,py,javascript,html,css,git,flutter,mysql,sqlite,cmake,bash,gradle,latex,regex,linux,arch,debian,raspberrypi,atom,clion,idea,pycharm,webstorm,vscode,androidstudio&theme=dark)](https://skillicons.dev) -->
