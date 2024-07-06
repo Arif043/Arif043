@@ -141,6 +141,7 @@
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=69Asuna69&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F7105SWL)
 ![](https://visitcount.itsvg.in/api?id=Arif043&icon=5&color=6)
 <!-- <p align="center">
   <a href="https://skillicons.dev">
