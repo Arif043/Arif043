@@ -9,6 +9,7 @@
 # 🌐 Socials
 ![Static Badge](https://img.shields.io/badge/EMAIL-arif.ertugrul%40tu--dortmund.de-darkgreen?style=for-the-badge&logo=gmail&labelColor=ffffff)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-ertugrul/)
+![Static Badge](https://img.shields.io/badge/reddit-orange?style=flat&logo=reddit&logoColor=black)
 
 
 # 💻 Tech Stack
